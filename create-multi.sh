@@ -17,8 +17,7 @@ echo $Nombre
 cat > $HOME/download/Pokemon-Horizons-The-Series-S01E$Nombreedit-MULTi-1080p-WEB-x264-AAC-Tsundere-Raws-NF.mkv.php <<EOF
 <?php
 include "../function.php";
-$name = "Pokémon Horizons The Series S01E01-45 MULTi 1080p WEB x264 AAC -Tsundere-Raws (NF)/Pokémon Horizons The Series S01E01-45 MULTi 1080p WEB x264 AAC -Tsundere-Raws (NF)/Pokémon Horizons The Series S01E$Nombreedit MULTi 1080p WEB x264 AAC -Tsundere-Raws (NF).mkv";
-\$name = "[Pokémon Fansub] Pokémon Horizons - $Nombreedit (VOSTFR-FR 1920x1080 H264 AAC).mp4";
+\$name = "Pokémon Horizons The Series S01E01-45 MULTi 1080p WEB x264 AAC -Tsundere-Raws (NF)/Pokémon Horizons The Series S01E01-45 MULTi 1080p WEB x264 AAC -Tsundere-Raws (NF)/Pokémon Horizons The Series S01E$Nombreedit MULTi 1080p WEB x264 AAC -Tsundere-Raws (NF).mkv";
 \$url = "https://yourprivatehosting/torrent/debrid.php?name=" . urlencode(\$name) . "";
 \$cr = curl(\$url, null, "false", "false", null, null);
 header("Location: " . \$cr . "");
