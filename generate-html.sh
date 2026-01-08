@@ -15,14 +15,22 @@ else
     Nombreedit=$Nombre
 fi
 echo $Nombre
-cat > $HOME/pokemonfansub.github.io/video/Pokemon-Fansub-Pokemon-Horizons-$Nombreedit-VOSTFR-FR-1920x1080-H264-AAC.mp4.php <<EOF
-<?php
-include "../function.php";
-\$name = "[Pokémon Fansub] Pokémon Horizons - $Nombreedit (VOSTFR-FR 1920x1080 H264 AAC).mp4";
-\$url = "https://yourprivatehosting/torrent/debrid.php?name=" . urlencode(\$name) . "";
-\$cr = curl(\$url, null, "false", "false", null, null);
-header("Location: " . \$cr . "");
-exit;
+cat > $HOME/pokemonfansub.github.io/video/Pokemon-Fansub-Pokemon-Horizons-$Nombreedit-VOSTFR-FR-1920x1080-H264-AAC.mp4.html <<EOF
+<video poster="https://pokemonfansub.github.io/wp-content/uploads/HZ$Nombreedit.png" controls width="100%" height="100%"/>
+    <source src="https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-$Nombreedit-VOSTFR-FR-1920x1080-H264-AAC.mp4.php" type="video/mp4">
+</video>
+EOF
+cat > $HOME/pokemonfansub.github.io/video/Pokemon-Fansub-Pokemon-Horizons-$Nombreedit-VOSTFR-JAP-1920x1080-H264-AAC.mp4.html <<EOF
+<video poster="https://pokemonfansub.github.io/wp-content/uploads/HZ$Nombreedit.png" controls width="100%" height="100%"/>
+    <source src="https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-$Nombreedit-VOSTFR-JAP-1920x1080-H264-AAC.mp4.php" type="video/mp4">
+</video>
 EOF
     ((Nombre++))
 done
+
+cd $HOME/pokemonfansub.github.io
+git add --all *
+git commit -a -ù "add all new html"
+git push origin main
+cd $HOME
+rm -rf $HOME/pokemonfansub.github.io
