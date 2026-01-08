@@ -19,7 +19,7 @@
 
 et <a href="https://nyaa.si/view/2040059">Torrent</a><br />
 
-<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-112-VOSTFR-FR-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ112.png" allowfullscreen></iframe><br />
+<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-112-VOSTFR-FR-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe><br />
 
 
 
@@ -34,7 +34,7 @@ PMHZ 112, Pokémon en japonais :
  et <a href="https://nyaa.si/view/2040060">Torrent</a></p>
  
  
-<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-112-VOSTFR-JAP-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ112.png" allowfullscreen></iframe><br />
+<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-112-VOSTFR-JAP-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe><br />
 
 
 
@@ -50,7 +50,7 @@ et <a href="https://nyaa.si/view/2040061">Torrent</a><br />
 
 
 
-<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-113-VOSTFR-FR-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ113.png" allowfullscreen></iframe><br />
+<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-113-VOSTFR-FR-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe><br />
 
 
 
@@ -68,7 +68,7 @@ PMHZ 113, Pokémon en japonais :
 et <a href="https://nyaa.si/view/2040062">Torrent</a></p>
 
 
-<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-113-VOSTFR-JAP-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ113.png" allowfullscreen></iframe><br />
+<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-113-VOSTFR-JAP-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe><br />
 
 
 
@@ -88,7 +88,7 @@ et <a href="https://nyaa.si/view/2040062">Torrent</a></p>
 et <a href="https://nyaa.si/view/2040063">Torrent</a><br />
 
 
-<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-114-VOSTFR-FR-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ114.png" allowfullscreen></iframe><br />
+<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-114-VOSTFR-FR-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe><br />
 
 
 PMHZ 114, Pokémon en japonais :
@@ -102,7 +102,7 @@ PMHZ 114, Pokémon en japonais :
 et <a href="https://nyaa.si/view/2040064">Torrent</a></p>
 
 
-<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-114-VOSTFR-JAP-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ114.png" allowfullscreen></iframe><br />
+<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-114-VOSTFR-JAP-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe><br />
 
 
 
