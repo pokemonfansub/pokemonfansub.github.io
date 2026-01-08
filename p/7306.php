@@ -1,3 +1,4 @@
+<!--<article star>-->
 <article id="post-7306" class="post-7306 page type-page status-publish hentry">
 	<header class="entry-header">
 		<h1 class="entry-title">Pokémon Horizons</h1>	</header><!-- .entry-header -->
@@ -153,3 +154,4 @@
 					
 				</main><!-- #main -->
 			</div><!-- #primary -->
+<!--<article end>-->
