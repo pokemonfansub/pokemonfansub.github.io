@@ -55,7 +55,7 @@ done
 
 cd $HOME/pokemonfansub.github.io
 git add --all *
-git commit -a -ù "add all new html"
+git commit -a -m "add all new html"
 git push origin main
 cd $HOME
 rm -rf $HOME/pokemonfansub.github.io
