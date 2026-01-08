@@ -1,3 +1,4 @@
+<!--<head star>-->
 <!DOCTYPE html>
 <html lang="fr-FR">
 <head>
@@ -259,3 +260,4 @@ body.custom-background { background-image: url('https://pokemonfansub.alwaysdata
 			<div id="primary" class="content-area">
 				<main id="main" class="site-main" role="main">
 	
+<!--<head end>-->
