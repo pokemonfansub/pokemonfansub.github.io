@@ -50,9 +50,6 @@ else
 fi
 cat $HOME/pokemonfansub.github.io/include/secondary.html >> $HOME/pokemonfansub.github.io/p/$Nombreedit.html
 cat $HOME/pokemonfansub.github.io/include/footer.html >> $HOME/pokemonfansub.github.io/p/$Nombreedit.html
-
-
-EOF
     ((Nombre++))
 done
 
