@@ -1,3 +1,4 @@
+<!--<article star>-->
 <article id="post-8321" class="post-8321 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
 	<header class="entry-header entry-header-single">
 		<h1 class="entry-title">Pokémon Horizons 117 et 118 VOSTFR</h1>		<div class="entry-meta entry-meta-1"><span class="author vcard"><a class="url fn n" href="https://pokemonfansub.alwaysdata.net/?author=2">Trizek</a></span><span class="entry-date"><time class="entry-date published updated" datetime="2025-12-08T07:51:32+00:00">8 décembre 2025</time></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="https://pokemonfansub.alwaysdata.net/?p=8321#comments">6</a></span></div>	</header><!-- .entry-header -->
@@ -113,3 +114,4 @@ et <a href="https://nyaa.si/view/2051539">Torrent</a></p>
 				
 				</main><!-- #main -->
 			</div><!-- #primary -->
+<!--<article end>-->
