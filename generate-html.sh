@@ -36,9 +36,9 @@ Nombreedit=$Nombre
 echo $Nombre
 
 
-cat $HOME/pokemonfansub.github.io/include/head.html > $HOME/pokemonfansub.github.io/p/$Nombreedit.html
+mkdir -p $HOME/pokemonfansub.github.io/phtml/
+cat $HOME/pokemonfansub.github.io/include/head.html > $HOME/pokemonfansub.github.io/phtml/$Nombreedit.html
 if [ -f $HOME/pokemonfansub.github.io/ph/$Nombreedit.php  ]; then
-   mkdir -p $HOME/pokemonfansub.github.io/phtml/
    cat $HOME/pokemonfansub.github.io/p/$Nombreedit.php >> $HOME/pokemonfansub.github.io/phtml/$Nombreedit.html
    sed -i "s|https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-$Nombreedit-VOSTFR-FR-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ$Nombreedit.png|https://pokemonfansub.github.io/video/Pokemon-Fansub-Pokemon-Horizons-$Nombreedit-VOSTFR-FR-1920x1080-H264-AAC.mp4.html|g" $HOME/pokemonfansub.github.io/p/$Nombreedit.html
    sed -i "s|https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-$Nombreedit-VOSTFR-JAP-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ$Nombreedit.png|https://pokemonfansub.github.io/video/Pokemon-Fansub-Pokemon-Horizons-$Nombreedit-VOSTFR-FR-1920x1080-H264-AAC.mp4.html|g" $HOME/pokemonfansub.github.io/p/$Nombreedit.html
@@ -47,7 +47,6 @@ if [ -f $HOME/pokemonfansub.github.io/ph/$Nombreedit.php  ]; then
    sed -i 's|?p=|phtml/|g' $HOME/pokemonfansub.github.io/phtml/$Nombreedit.html
    sed -i 's|https://pokemonfansub.alwaysdata.net/|https://pokemonfansub.github.io/|g' $HOME/pokemonfansub.github.io/phtml/$Nombreedit.html
 else
-   mkdir -p $HOME/pokemonfansub.github.io/phtml/
    cat $HOME/pokemonfansub.github.io/include/home.html >> $HOME/pokemonfansub.github.io/phtml/$Nombreedit.html
 fi
 cat $HOME/pokemonfansub.github.io/include/secondary.html >> $HOME/pokemonfansub.github.io/phtml/$Nombreedit.html
