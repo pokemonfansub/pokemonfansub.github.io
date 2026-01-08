@@ -6,9 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="https://pokemonfansub.alwaysdata.net/xmlrpc.php">
-<title>Pokémon Fansub | Le paradis du VOSTFR</title>
-<link rel="alternate" type="application/rss+xml" title="Pokémon Fansub &raquo; Flux" href="https://pokemonfansub.alwaysdata.net/rss2.xml" />
-<link rel="alternate" type="application/rss+xml" title="Pokémon Fansub &raquo; Flux des commentaires" href="https://pokemonfansub.alwaysdata.net/comments-rss2.xml" />
+<title>Pok&eacute;mon Fansub | Le paradis du VOSTFR</title>
+<link rel="alternate" type="application/rss+xml" title="Pok&eacute;mon Fansub &raquo; Flux" href="https://pokemonfansub.alwaysdata.net/rss2.xml" />
+<link rel="alternate" type="application/rss+xml" title="Pok&eacute;mon Fansub &raquo; Flux des commentaires" href="https://pokemonfansub.alwaysdata.net/comments-rss2.xml" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/pokemonfansub.alwaysdata.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -63,19 +63,19 @@ img.emoji {
         oneSignal_options['wordpress'] = true;
 oneSignal_options['appId'] = 'cc9c08ed-7ad0-4d75-9f02-ebbca4d8b8ba';
 oneSignal_options['welcomeNotification'] = { };
-oneSignal_options['welcomeNotification']['title'] = "Pokémon Fansub";
-oneSignal_options['welcomeNotification']['message'] = "Vous recevrez désormais une notification quand un épisode sortira !";
+oneSignal_options['welcomeNotification']['title'] = "Pok&eacute;mon Fansub";
+oneSignal_options['welcomeNotification']['message'] = "Vous recevrez d&eacute;sormais une notification quand un &eacute;pisode sortira !";
 oneSignal_options['welcomeNotification']['url'] = "http://pokemonfansub.alwaysdata.net";
 oneSignal_options['subdomainName'] = "pokemonfansub";
 oneSignal_options['safari_web_id'] = "web.onesignal.auto.0818a4e7-118f-4fc1-b0e2-07892e811a2a";
 oneSignal_options['persistNotification'] = false;
 oneSignal_options['promptOptions'] = { };
-oneSignal_options['promptOptions']['actionMessage'] = 'Nous voulons vous envoyer des notifications à chaque nouvel épisode.';
-oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = 'Pokémon Fansub';
-oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = 'Un nouvel épisode est disponible !';
-oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = 'Pokémon Fansub';
-oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = 'Un nouvel épisode est disponible !';
-oneSignal_options['promptOptions']['exampleNotificationCaption'] = '(vous pouvez vous désinscrire à n importe quel moment)';
+oneSignal_options['promptOptions']['actionMessage'] = 'Nous voulons vous envoyer des notifications à chaque nouvel &eacute;pisode.';
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = 'Pok&eacute;mon Fansub';
+oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = 'Un nouvel &eacute;pisode est disponible !';
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = 'Pok&eacute;mon Fansub';
+oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = 'Un nouvel &eacute;pisode est disponible !';
+oneSignal_options['promptOptions']['exampleNotificationCaption'] = '(vous pouvez vous d&eacute;sinscrire à n importe quel moment)';
 oneSignal_options['promptOptions']['acceptButtonText'] = 'AUTORISER';
 oneSignal_options['promptOptions']['cancelButtonText'] = 'NON MERCI';
 oneSignal_options['promptOptions']['siteName'] = 'http://pokemonfansub.alwaysdata.net';
@@ -87,16 +87,16 @@ oneSignal_options['notifyButton']['theme'] = 'inverse';
 oneSignal_options['notifyButton']['size'] = 'large';
 oneSignal_options['notifyButton']['showCredit'] = true;
 oneSignal_options['notifyButton']['text'] = {};
-oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Cliquez pour recevoir une notification à chaque épisode';
-oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Vous recevrez une notification à chaque nouvel épisode';
-oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Vous avez bloqué les notifications';
-oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Merci d avoir activé les notifications';
-oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Vous avez ré-activé les notifications';
-oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'Vous avez désactivé les notifications';
-oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Ajoutez les notifications pour les nouveaux épisodes';
-oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'ÊTRE INFORMÉ';
-oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'NE PLUS ÊTRE INFORMÉ';
-oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'Débloquer les notifications';
+oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Cliquez pour recevoir une notification à chaque &eacute;pisode';
+oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Vous recevrez une notification à chaque nouvel &eacute;pisode';
+oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Vous avez bloqu&eacute; les notifications';
+oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Merci d avoir activ&eacute; les notifications';
+oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Vous avez r&eacute;-activ&eacute; les notifications';
+oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'Vous avez d&eacute;sactiv&eacute; les notifications';
+oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Ajoutez les notifications pour les nouveaux &eacute;pisodes';
+oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'ÊTRE INFORM&eacute;';
+oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'NE PLUS ÊTRE INFORM&eacute;';
+oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'D&eacute;bloquer les notifications';
 oneSignal_options['notifyButton']['text']['dialog.blocked.message'] = 'Suivez ces instructions pour activer les notifications :';
           /* OneSignal: Using custom SDK initialization. */
                 });
@@ -133,15 +133,15 @@ body.custom-background { background-image: url('https://pokemonfansub.alwaysdata
 					<span class="home-menu"> <a href="https://pokemonfansub.alwaysdata.net/" rel="home"><i class="fa fa-home"></i></a></span>
 					<span class="nav-toggle"><a href="#0" id="nav-toggle">Menu<span></span></a></span>
 					<ul class="ft-menu">
-						<li id="menu-item-1907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1907"><a href="https://pokemonfansub.alwaysdata.net/?page_id=1878">Épisodes</a>
+						<li id="menu-item-1907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1907"><a href="https://pokemonfansub.alwaysdata.net/?page_id=1878">&eacute;pisodes</a>
 <ul class="sub-menu">
-	<li id="menu-item-3148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3148"><a href="https://pokemonfansub.alwaysdata.net/?page_id=1878">Liste des épisodes</a>
+	<li id="menu-item-3148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3148"><a href="https://pokemonfansub.alwaysdata.net/?page_id=1878">Liste des &eacute;pisodes</a>
 	<ul class="sub-menu">
-		<li id="menu-item-3889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3889"><a href="https://pokemonfansub.alwaysdata.net/?page_id=3848">Arc Advanced Génération</a></li>
+		<li id="menu-item-3889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3889"><a href="https://pokemonfansub.alwaysdata.net/?page_id=3848">Arc Advanced G&eacute;n&eacute;ration</a></li>
 		<li id="menu-item-3360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3360"><a href="https://pokemonfansub.alwaysdata.net/?page_id=3357">Arc XY</a></li>
 		<li id="menu-item-3844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3844"><a href="https://pokemonfansub.alwaysdata.net/?page_id=3842">Arc Sun &#038; Moon</a></li>
 		<li id="menu-item-4754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4754"><a href="https://pokemonfansub.alwaysdata.net/?page_id=4751">Arc Pocket Monsters 2019</a></li>
-		<li id="menu-item-7308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7308"><a href="https://pokemonfansub.alwaysdata.net/?page_id=7306">Pokémon Horizons</a></li>
+		<li id="menu-item-7308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7308"><a href="https://pokemonfansub.alwaysdata.net/?page_id=7306">Pok&eacute;mon Horizons</a></li>
 		<li id="menu-item-4755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4755"><a href="https://pokemonfansub.alwaysdata.net/?p=3560">Film 20</a></li>
 		<li id="menu-item-4756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4756"><a href="https://pokemonfansub.alwaysdata.net/?p=4214">Film 21</a></li>
 		<li id="menu-item-5027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5027"><a href="https://pokemonfansub.alwaysdata.net/?p=5010">Film 22</a></li>
@@ -149,12 +149,12 @@ body.custom-background { background-image: url('https://pokemonfansub.alwaysdata
 	</ul>
 </li>
 	<li id="menu-item-1901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1901"><a href="https://pokemonfansub.alwaysdata.net/?page_id=1529">Rythme de sortie</a></li>
-	<li id="menu-item-1902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1902"><a href="http://pokemon-streaming-mix.eklablog.com/">Pokémon Streaming</a></li>
+	<li id="menu-item-1902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1902"><a href="http://pokemon-streaming-mix.eklablog.com/">Pok&eacute;mon Streaming</a></li>
 </ul>
 </li>
 <li id="menu-item-5196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5196"><a href="https://pokemonfansub.alwaysdata.net/?page_id=5194">Streaming</a>
 <ul class="sub-menu">
-	<li id="menu-item-5295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5295"><a href="https://pokemonfansub.alwaysdata.net/?page_id=5293">Streaming : Arc Advanced Génération</a>
+	<li id="menu-item-5295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5295"><a href="https://pokemonfansub.alwaysdata.net/?page_id=5293">Streaming : Arc Advanced G&eacute;n&eacute;ration</a>
 	<ul class="sub-menu">
 		<li id="menu-item-5296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5296"><a href="https://pokemonfansub.alwaysdata.net/?page_id=5291">Streaming : Saison 6</a></li>
 		<li id="menu-item-5303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5303"><a href="https://pokemonfansub.alwaysdata.net/?page_id=5298">Streaming : Saison 7</a></li>
@@ -201,15 +201,15 @@ body.custom-background { background-image: url('https://pokemonfansub.alwaysdata
 	</div><!--#topbar-->
 		<div class="mobile-navigation">
 				<ul>
-			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1907"><a href="https://pokemonfansub.alwaysdata.net/?page_id=1878">Épisodes</a>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1907"><a href="https://pokemonfansub.alwaysdata.net/?page_id=1878">&eacute;pisodes</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3148"><a href="https://pokemonfansub.alwaysdata.net/?page_id=1878">Liste des épisodes</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3148"><a href="https://pokemonfansub.alwaysdata.net/?page_id=1878">Liste des &eacute;pisodes</a>
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3889"><a href="https://pokemonfansub.alwaysdata.net/?page_id=3848">Arc Advanced Génération</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3889"><a href="https://pokemonfansub.alwaysdata.net/?page_id=3848">Arc Advanced G&eacute;n&eacute;ration</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3360"><a href="https://pokemonfansub.alwaysdata.net/?page_id=3357">Arc XY</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3844"><a href="https://pokemonfansub.alwaysdata.net/?page_id=3842">Arc Sun &#038; Moon</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4754"><a href="https://pokemonfansub.alwaysdata.net/?page_id=4751">Arc Pocket Monsters 2019</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7308"><a href="https://pokemonfansub.alwaysdata.net/?page_id=7306">Pokémon Horizons</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7308"><a href="https://pokemonfansub.alwaysdata.net/?page_id=7306">Pok&eacute;mon Horizons</a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4755"><a href="https://pokemonfansub.alwaysdata.net/?p=3560">Film 20</a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4756"><a href="https://pokemonfansub.alwaysdata.net/?p=4214">Film 21</a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5027"><a href="https://pokemonfansub.alwaysdata.net/?p=5010">Film 22</a></li>
@@ -217,12 +217,12 @@ body.custom-background { background-image: url('https://pokemonfansub.alwaysdata
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1901"><a href="https://pokemonfansub.alwaysdata.net/?page_id=1529">Rythme de sortie</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1902"><a href="http://pokemon-streaming-mix.eklablog.com/">Pokémon Streaming</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1902"><a href="http://pokemon-streaming-mix.eklablog.com/">Pok&eacute;mon Streaming</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5196"><a href="https://pokemonfansub.alwaysdata.net/?page_id=5194">Streaming</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5295"><a href="https://pokemonfansub.alwaysdata.net/?page_id=5293">Streaming : Arc Advanced Génération</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5295"><a href="https://pokemonfansub.alwaysdata.net/?page_id=5293">Streaming : Arc Advanced G&eacute;n&eacute;ration</a>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5296"><a href="https://pokemonfansub.alwaysdata.net/?page_id=5291">Streaming : Saison 6</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5303"><a href="https://pokemonfansub.alwaysdata.net/?page_id=5298">Streaming : Saison 7</a></li>
@@ -251,7 +251,7 @@ body.custom-background { background-image: url('https://pokemonfansub.alwaysdata
 		<header id="masthead" class="site-header" role="banner">
 		<div class="container">
 			<div class="site-branding">
-				<a title="Pokémon Fansub" class="site-logo" href="https://pokemonfansub.alwaysdata.net/" rel="home"><img src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/bannière.png" alt="Pokémon Fansub"></a>			</div><!-- .site-branding -->
+				<a title="Pok&eacute;mon Fansub" class="site-logo" href="https://pokemonfansub.alwaysdata.net/" rel="home"><img src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/bannière.png" alt="Pok&eacute;mon Fansub"></a>			</div><!-- .site-branding -->
 		</div>
 	</header>
 <!-- #masthead -->
