@@ -24,7 +24,7 @@
  
  
  
-<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-119-VOSTFR-FR-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ119.png" allowfullscreen></iframe>
+<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-119-VOSTFR-FR-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe>
  
  
  
@@ -46,7 +46,7 @@ PMHZ 119, Pokémon en japonais :
  
  et <a href="https://nyaa.si/view/2057182">Torrent</a>
  
-<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-119-VOSTFR-JAP-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ119.png" allowfullscreen></iframe>
+<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-119-VOSTFR-JAP-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe>
 
  
  </p>
@@ -62,7 +62,7 @@ PMHZ 119, Pokémon en japonais :
 et <a href="https://nyaa.si/view/2057183">Torrent</a>
 
 
-<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-120-VOSTFR-FR-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ120.png" allowfullscreen></iframe>
+<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-120-VOSTFR-FR-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe>
 
 
 
@@ -78,7 +78,7 @@ PMHZ 120, Pokémon en japonais :
 
 
 et <a href="https://nyaa.si/view/2057184">Torrent</a></p>
-<p><iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-120-VOSTFR-JAP-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ120.png" allowfullscreen></iframe>
+<p><iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-120-VOSTFR-JAP-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe>
  </p>
 
 			</div><!-- .entry-content -->
