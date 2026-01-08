@@ -1,3 +1,4 @@
+<!--<article star>-->
 <article id="post-1878" class="post-1878 page type-page status-publish hentry">
 	<header class="entry-header">
 		<h1 class="entry-title">Liste des épisodes</h1>	</header><!-- .entry-header -->
@@ -359,3 +360,4 @@ La Plus Puissante Des Méga-Évolutions</span> :</strong><br />
 					
 				</main><!-- #main -->
 			</div><!-- #primary -->
+<!--<article end>-->
