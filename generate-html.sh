@@ -44,6 +44,7 @@ if [ -f $HOME/pokemonfansub.github.io/p/$Nombreedit.php  ]; then
    sed -i 's|#respond">|.html|g' $HOME/pokemonfansub.github.io/p/$Nombreedit.html
    sed -i 's|" rel="prev">|.html" rel="prev">|g' $HOME/pokemonfansub.github.io/p/$Nombreedit.html
    sed -i 's|?p=|p/|g' $HOME/pokemonfansub.github.io/p/$Nombreedit.html
+   sed -i 's|https://pokemonfansub.alwaysdata.net/|https://pokemonfansub.github.io/|g' $HOME/pokemonfansub.github.io/p/$Nombreedit.html
 else
    cat $HOME/pokemonfansub.github.io/include/home.html >> $HOME/pokemonfansub.github.io/p/$Nombreedit.html
 fi
