@@ -2,7 +2,7 @@
 			<aside id="text-22" class="widget widget_text">			<!--<div class="textwidget"><b>Pour ceux qui ont des pubs en streaming, téléchargez un <a href="https://www.google.com/search?sxsrf=ALeKk03NaXilnz5yJShgeQFs1JWwvRJ_6g%3A1588596515575&ei=Iw-wXpLYIqSTlwT-iLHwDg&q=adblock" target="_blank"><span style="color: #9b2c33;">bloqueur de pub</span></a></b></div>-->
 		</aside><aside id="text-13" class="widget widget_text">			<div class="textwidget"><img src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/avancement1.png">
 <center><b>Pokémon Horizons 123</b></center>
-<center><iframe width="640" height="180" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-122-VOSTFR-FR-1920x1080-H264-AAC.mp4.php&poster=https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ122.png" allowfullscreen></iframe>
+<center><iframe width="640" height="180" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video/Pokemon-Fansub-Pokemon-Horizons-122-VOSTFR-FR-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe>
 </center>
 
 <div class='rprogress-container'>
