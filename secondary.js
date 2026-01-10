@@ -8,7 +8,7 @@ document.write('\
 </center>\
 \
 <div class=\'rprogress-container\'>\
-				<div class=\'rprogress-wrap rprogress\' data-progress-percent='20' data-speed='1000' style=\'background: #94FF97; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px;\'>\
+				<div class=\'rprogress-wrap rprogress\' data-progress-percent=\'20\' data-speed=\'1000\' style=\'background: #94FF97; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px;\'>\
 					<div class=\'rprogress-bar rprogress\' style=\'background: #ccc\'></div><div class=\'rprogress-text\' style=\'color: #333\'>Trad</div>\
 				</div>\
 				</div>\
@@ -40,7 +40,7 @@ staff.pokemonfansub@gmail.com\
 href="https://discord.gg/qcPjqcz"><span style="color: #9b2c33;"> <img src="https://pokemonfansub.github.io/wp-content/uploads/discord.png"width=30> </span></a> <a href="https://discord.gg/qcPjqcz"><span style="color: #9b2c33;">Serveur Discord</span></a>\
 <br />\
 <br />\
-<a href="https://twitter.com/PokeFansub" class="twitter-follow-button" data-show-count="false">Follow @PokeFansub</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?\'http':'https\';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\'://platform.twitter.com/widgets.js\';fjs.parentNode.insertBefore(js,fjs);}}(document, \'script\', \'twitter-wjs\');</script></div>\
+<a href="https://twitter.com/PokeFansub" class="twitter-follow-button" data-show-count="false">Follow @PokeFansub</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?\'http\':\'https\';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\'://platform.twitter.com/widgets.js\';fjs.parentNode.insertBefore(js,fjs);}}(document, \'script\', \'twitter-wjs\');</script></div>\
 		</aside>		</div><!-- #secondary -->\
 \
 ');
