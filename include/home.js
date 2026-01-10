@@ -8,7 +8,7 @@ document.write('    <div class="entry-thumb">');
 document.write('        <a href="https://pokemonfansub.github.io/phtml/8346.html" title="Pokémon Horizons 121 et 122 VOSTFR">');
 document.write('			<img width="325" height="170" src="https://pokemonfansub.github.io/wp-content/uploads/HZ121.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ121" />		</a>');
 document.write('        <header class="entry-header">');
-document.write('    		<h2 class="entry-title"><a href="https://pokemonfansub.github.io/phtml/8346.html" rel="bookmark">Pokémon Horizons 121 et 122 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="author vcard"><a class="url fn n" href="https://pokemonfansub.github.io/author/2.html">Trizek</a></span><span class="entry-date"><time class="entry-date published" datetime="2026-01-06T01:28:54+00:00">6 janvier 2026</time></span><span class="comments-link"><i class="fa fa-comments-o"></i></span></div>    	</header><!-- .entry-header -->');
+document.write('    		<h2 class="entry-title"><a href="https://pokemonfansub.github.io/phtml/8346.html" rel="bookmark">Pokémon Horizons 121 et 122 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published" datetime="2026-01-06T01:28:54+00:00">6 janvier 2026</time></span></div>    	</header><!-- .entry-header -->');
 document.write('');
 document.write('    	<div class="entry-excerpt">');
 document.write('    		<div class="ft-excerpt">Bonjour à tous ! Friede a refait surface ! Il a contacté les autres Électacleurs Volants pour les prévenir de...</div>    	</div><!-- .entry-content -->');
