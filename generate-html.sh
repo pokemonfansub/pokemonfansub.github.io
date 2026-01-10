@@ -44,15 +44,15 @@ cat > "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
 <!--<head end>-->
 EOF
 
-if [ -f "$HOME/pokemonfansub.github.io/phhtml/$Nombreedit.js"  ]; then
-   echo "file "$HOME/pokemonfansub.github.io/phhtml/$Nombreedit.js" exist"
+if [ -f "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.js"  ]; then
+   echo "file "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.js" exist"
    cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
 <!--<article star>-->
 <script src="https://pokemonfansub.github.io/phhtml/$Nombreedit.js"></script>
 <!--<article end>-->
 EOF
 else
-   echo "file "$HOME/pokemonfansub.github.io/phhtml/$Nombreedit.js" not exist"
+   echo "file "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.js" not exist"
    cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
 <!--<article star>-->
 <script src="https://pokemonfansub.github.io/include/home.js"></script>
