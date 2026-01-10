@@ -4,7 +4,7 @@
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8346" title="Pokémon Horizons 121 et 122 VOSTFR">
 			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ121-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ121" />		</a>
-        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?cat=21">Pokémon Horizons</a>    </div>
+        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
     		<h2 class="entry-title"><a href="https://pokemonfansub.alwaysdata.net/?p=8346" rel="bookmark">Pokémon Horizons 121 et 122 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published" datetime="2026-01-06T01:28:54+00:00">6 janvier 2026</time></span></div>    	</header><!-- .entry-header -->
@@ -18,7 +18,7 @@
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8335" title="Pokémon Horizons 119 et 120 VOSTFR">
 			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ119-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ119" />		</a>
-        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?cat=21">Pokémon Horizons</a>    </div>
+        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
     		<h2 class="entry-title"><a href="https://pokemonfansub.alwaysdata.net/?p=8335" rel="bookmark">Pokémon Horizons 119 et 120 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published updated" datetime="2025-12-23T08:07:56+00:00">23 décembre 2025</time></span></div>    	</header><!-- .entry-header -->
@@ -32,7 +32,7 @@
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8321" title="Pokémon Horizons 117 et 118 VOSTFR">
 			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ117-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ117" />		</a>
-        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?cat=21">Pokémon Horizons</a>    </div>
+        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
     		<h2 class="entry-title"><a href="https://pokemonfansub.alwaysdata.net/?p=8321" rel="bookmark">Pokémon Horizons 117 et 118 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published updated" datetime="2025-12-08T07:51:32+00:00">8 décembre 2025</time></span></div>    	</header><!-- .entry-header -->
@@ -46,7 +46,7 @@
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8304" title="Pokémon Horizons 115 et 116 VOSTFR">
 			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ115-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ115" />		</a>
-        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?cat=21">Pokémon Horizons</a>    </div>
+        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
     		<h2 class="entry-title"><a href="https://pokemonfansub.alwaysdata.net/?p=8304" rel="bookmark">Pokémon Horizons 115 et 116 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published updated" datetime="2025-12-04T04:33:34+00:00">4 décembre 2025</time></span></div>    	</header><!-- .entry-header -->
@@ -60,7 +60,7 @@
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8282" title="Pokémon Horizons 112, 113 et 114 VOSTFR">
 			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ112-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ112" />		</a>
-        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?cat=21">Pokémon Horizons</a>    </div>
+        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
     		<h2 class="entry-title"><a href="https://pokemonfansub.alwaysdata.net/?p=8282" rel="bookmark">Pokémon Horizons 112, 113 et 114 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published updated" datetime="2025-11-08T04:20:24+00:00">8 novembre 2025</time></span></div>    	</header><!-- .entry-header -->
@@ -74,7 +74,7 @@
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8267" title="Pokémon Horizons 110 et 111 VOSTFR">
 			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ110-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ110" />		</a>
-        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?cat=21">Pokémon Horizons</a>    </div>
+        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
     		<h2 class="entry-title"><a href="https://pokemonfansub.alwaysdata.net/?p=8267" rel="bookmark">Pokémon Horizons 110 et 111 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published updated" datetime="2025-10-03T05:54:36+00:00">3 octobre 2025</time></span></div>    	</header><!-- .entry-header -->
@@ -88,7 +88,7 @@
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8254" title="Pokémon Horizons 108 et 109 VOSTFR">
 			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ108-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ108" />		</a>
-        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?cat=21">Pokémon Horizons</a>    </div>
+        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
     		<h2 class="entry-title"><a href="https://pokemonfansub.alwaysdata.net/?p=8254" rel="bookmark">Pokémon Horizons 108 et 109 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published updated" datetime="2025-09-19T18:42:20+00:00">19 septembre 2025</time></span></div>    	</header><!-- .entry-header -->
@@ -102,7 +102,7 @@
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8245" title="Pokémon Horizons 107 VOSTFR">
 			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ107-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ107" />		</a>
-        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?cat=21">Pokémon Horizons</a>    </div>
+        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
     		<h2 class="entry-title"><a href="https://pokemonfansub.alwaysdata.net/?p=8245" rel="bookmark">Pokémon Horizons 107 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published" datetime="2025-09-06T15:53:22+00:00">6 septembre 2025</time></span></div>    	</header><!-- .entry-header -->
@@ -116,7 +116,7 @@
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8235" title="Pokémon Horizons 106 VOSTFR">
 			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ106-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ106" />		</a>
-        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?cat=21">Pokémon Horizons</a>    </div>
+        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
     		<h2 class="entry-title"><a href="https://pokemonfansub.alwaysdata.net/?p=8235" rel="bookmark">Pokémon Horizons 106 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published updated" datetime="2025-08-29T23:31:11+00:00">29 août 2025</time></span></div>    	</header><!-- .entry-header -->
@@ -130,7 +130,7 @@
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8224" title="Pokémon Horizons 105 VOSTFR">
 			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ105-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ105" />		</a>
-        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?cat=21">Pokémon Horizons</a>    </div>
+        <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
     		<h2 class="entry-title"><a href="https://pokemonfansub.alwaysdata.net/?p=8224" rel="bookmark">Pokémon Horizons 105 VOSTFR</a></h2>    		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published updated" datetime="2025-08-26T07:13:30+00:00">26 août 2025</time></span></div>    	</header><!-- .entry-header -->
