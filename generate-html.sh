@@ -37,18 +37,35 @@ echo $Nombre
 
 
 mkdir -p "$HOME/pokemonfansub.github.io/phtml/"
-cat "$HOME/pokemonfansub.github.io/include/head.html" > "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"
-if [ -f "$HOME/pokemonfansub.github.io/ph/$Nombreedit.php"  ]; then
-   cat "$HOME/pokemonfansub.github.io/p/$Nombreedit.php" >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"
-   sed -i 's|#respond">|.html|g' "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"
-   sed -i 's|" rel="prev">|.html" rel="prev">|g' "$HOME/pokemonfansub.github.io/p/$Nombreedit.html"
-   sed -i 's|?p=|phtml/|g' "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"
-   sed -i 's|https://pokemonfansub.alwaysdata.net|https://pokemonfansub.github.io|g' "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"
+cat "$HOME/pokemonfansub.github.io/include/head.html" > "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+<!--<head star>-->
+<script src="https://pokemonfansub.github.io/include/head.js"></script>
+<!--<head end>-->
+EOF
+
+if [ -f "$HOME/pokemonfansub.github.io/phhtml/$Nombreedit.js"  ]; then
+   cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+<!--<article star>-->
+<script src="https://pokemonfansub.github.io/phhtml/$Nombreedit.js"></script>
+<!--<article end>-->
+EOF
 else
-   cat "$HOME/pokemonfansub.github.io/include/home.html" >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"
+   cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+<!--<article star>-->
+<script src="https://pokemonfansub.github.io/include/home.js"></script>
+<!--<article end>-->
+EOF
 fi
-cat "$HOME/pokemonfansub.github.io/include/secondary.html" >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"
-cat "$HOME/pokemonfansub.github.io/include/footer.html" >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"
+cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+<!--<secondary star>-->
+<script src="https://pokemonfansub.github.io/include/secondary.js"></script>
+<!--<secondary end>-->
+EOF
+cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+<!--<footer star>-->
+<script src="https://pokemonfansub.github.io/include/footer.js"></script>
+<!--<footer end>-->
+EOF
     ((Nombre++))
 done
 
