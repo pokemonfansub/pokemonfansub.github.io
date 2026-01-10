@@ -48,7 +48,7 @@ if [ -f "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.js"  ]; then
    echo "file "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.js" exist"
    cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
 <!--<article star>-->
-<script src="https://pokemonfansub.github.io/phhtml/$Nombreedit.js"></script>
+<script src="https://pokemonfansub.github.io/phtml/$Nombreedit.js"></script>
 <!--<article end>-->
 EOF
 else
