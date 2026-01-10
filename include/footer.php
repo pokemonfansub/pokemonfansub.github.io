@@ -14,7 +14,7 @@
 			<div class="site-info">
 				<p>
 					Copyright &copy; 2026 Pokémon Fansub. All Rights Reserved.				</p>
-				Source Code <a href="https://github.com/andykimpe1/pokemonfansub.free.fr">Github</a>			</div><!-- .site-info -->
+				Source Code <a href="https://github.com/pokemonfansub/pokemonfansub.github.io/">Github</a>			</div><!-- .site-info -->
 
 		</div>
 	</footer><!-- #colophon -->
