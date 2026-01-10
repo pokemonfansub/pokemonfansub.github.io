@@ -6,8 +6,8 @@
 </center>
 
 <div class='rprogress-container'>
-				<div class='rprogress-wrap rprogress' data-progress-percent='70' data-speed='1000' style='background: #94FF97; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px;'>
-					<div class='rprogress-bar rprogress' style='background: #ccc'></div><div class='rprogress-text' style='color: #333'>Sort au Japon le 09/01</div>
+				<div class='rprogress-wrap rprogress' data-progress-percent='20' data-speed='1000' style='background: #94FF97; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px;'>
+					<div class='rprogress-bar rprogress' style='background: #ccc'></div><div class='rprogress-text' style='color: #333'>Trad</div>
 				</div>
 				</div>
 				
