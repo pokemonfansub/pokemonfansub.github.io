@@ -56,7 +56,7 @@ img.emoji {\
       OneSignal.push( function() {\
         OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";\
         OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";\
-        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };\
+        OneSignal.SERVICE_WORKER_PARAM = { scope: \'/\' };\
 \
         OneSignal.setDefaultNotificationUrl("http://pokemonfansub.github.io");\
         var oneSignal_options = {};\
@@ -107,7 +107,7 @@ oneSignal_options[\'notifyButton\'][\'text\'][\'dialog.blocked.message\'] = \'Su
         var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");\
 \
         var oneSignalLinkClickHandler = function(event) { OneSignal.push([\'registerForPushNotifications\']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)\
-          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);\
+          oneSignal_elements[i].addEventListener(\'click\', oneSignalLinkClickHandler, false);\
       }\
 \
       if (document.readyState === \'complete\') {\
