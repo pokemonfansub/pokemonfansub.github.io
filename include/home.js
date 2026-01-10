@@ -154,4 +154,3 @@ document.write('');
 document.write('				</main><!-- #main -->');
 document.write('			</div><!-- #primary -->');
 document.write('<!--<article end>-->');
-document.write('');
