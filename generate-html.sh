@@ -38,7 +38,7 @@ echo $Nombre
 
 
 mkdir -p "$HOME/pokemonfansub.github.io/phtml/"
-cat "$HOME/pokemonfansub.github.io/include/head.html" > "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+cat > "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
 <!--<head star>-->
 <script src="https://pokemonfansub.github.io/include/head.js"></script>
 <!--<head end>-->
