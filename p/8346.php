@@ -1,6 +1,6 @@
 <article id="post-8346" class="post-8346 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
 	<header class="entry-header entry-header-single">
-		<h1 class="entry-title">Pokémon Horizons 121 et 122 VOSTFR</h1>		<div class="entry-meta entry-meta-1"><span class="author vcard"><a class="url fn n" href="https://pokemonfansub.alwaysdata.net/?author=2">Trizek</a></span><span class="entry-date"><time class="entry-date published" datetime="2026-01-06T01:28:54+00:00">6 janvier 2026</time></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="https://pokemonfansub.alwaysdata.net/?p=8346#respond">0</a></span></div>	</header><!-- .entry-header -->
+		<h1 class="entry-title">Pokémon Horizons 121 et 122 VOSTFR</h1>		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published" datetime="2026-01-06T01:28:54+00:00">6 janvier 2026</time></span></div>	</header><!-- .entry-header -->
 
 
 	<div class="entry-content">
@@ -105,8 +105,7 @@ et <a href="https://nyaa.si/view/2060797">Torrent</a></p>
 
 	<footer class="entry-footer">
 		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
-	<li><a href="https://pokemonfansub.alwaysdata.net/?cat=21" rel="category">Pokémon Horizons</a></li>
-	<li><a href="https://pokemonfansub.alwaysdata.net/?cat=6" rel="category">Release</a></li></ul></div></div>
+	<li><a href="https://pokemonfansub.alwaysdata.net/?p=7306" rel="category">Pokémon Horizons</a></li>
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
