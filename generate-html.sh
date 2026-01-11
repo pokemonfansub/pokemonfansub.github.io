@@ -71,33 +71,36 @@ EOF
 done
 else
 echo found add fonction
-function updatehtml() 
-{ 
-Nombreedit=$(echo $1|sed "s|.js||g")
-Nombreedit=$(echo $Nombreedit|sed "s|$HOME/pokemonfansub.github.io/phtml/||g")
-echo "file "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.js" exist"
-cat > "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+cat > $HOME/pokemonfansub.github.io/updatehtml.sh <<EOG
+#!/bin/bash
+Nombreedit=\$(echo \$1|sed "s|.js||g")
+Nombreedit=\$(echo $Nombreedit|sed "s|\$HOME/pokemonfansub.github.io/phtml/||g")
+echo "file "\$HOME/pokemonfansub.github.io/phtml/\$Nombreedit.js" exist"
+cat > "\$HOME/pokemonfansub.github.io/phtml/\$Nombreedit.html"<<EOF
 <!--<head star>-->
 <script src="https://pokemonfansub.github.io/include/head.js"></script>
 <!--<head end>-->
 EOF
-cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+cat >> "\$HOME/pokemonfansub.github.io/phtml/\$Nombreedit.html"<<EOF
 <!--<article star>-->
-<script src="https://pokemonfansub.github.io/phtml/$Nombreedit.js"></script>
+<script src="https://pokemonfansub.github.io/phtml/\$Nombreedit.js"></script>
 <!--<article end>-->
 EOF
-cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+cat >> "\$HOME/pokemonfansub.github.io/phtml/\$Nombreedit.html"<<EOF
 <!--<secondary star>-->
 <script src="https://pokemonfansub.github.io/include/secondary.js"></script>
 <!--<secondary end>-->
 EOF
-cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+cat >> "\$HOME/pokemonfansub.github.io/phtml/\$Nombreedit.html"<<EOF
 <!--<footer star>-->
 <script src="https://pokemonfansub.github.io/include/footer.js"></script>
 <!--<footer end>-->
 EOF
-}
-find "$HOME/pokemonfansub.github.io/phtml/" -name '*.js' -exec updatehtml {} \;
+EOG
+chmod +x $HOME/pokemonfansub.github.io/updatehtml.sh
+dos2unix $HOME/pokemonfansub.github.io/updatehtml.sh
+find "$HOME/pokemonfansub.github.io/phtml/" -name '*.js' -exec $HOME/pokemonfansub.github.io/updatehtml.sh {} \;
+rm -f $HOME/pokemonfansub.github.io/updatehtml.sh
 fi
 
 cd $HOME/pokemonfansub.github.io
