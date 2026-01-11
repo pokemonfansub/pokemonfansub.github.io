@@ -3,7 +3,7 @@
 <article id="post-8346" class="col-md-6 col-sm-12 post-8346 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8346" title="Pokémon Horizons 121 et 122 VOSTFR">
-			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ121-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ121" />		</a>
+			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ121.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ121" />		</a>
         <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
@@ -17,7 +17,7 @@
 <article id="post-8335" class="col-md-6 col-sm-12 post-8335 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8335" title="Pokémon Horizons 119 et 120 VOSTFR">
-			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ119-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ119" />		</a>
+			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ119.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ119" />		</a>
         <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
@@ -31,7 +31,7 @@
 <article id="post-8321" class="col-md-6 col-sm-12 post-8321 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8321" title="Pokémon Horizons 117 et 118 VOSTFR">
-			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ117-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ117" />		</a>
+			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ117.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ117" />		</a>
         <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
@@ -45,7 +45,7 @@
 <article id="post-8304" class="col-md-6 col-sm-12 post-8304 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8304" title="Pokémon Horizons 115 et 116 VOSTFR">
-			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ115-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ115" />		</a>
+			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ115.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ115" />		</a>
         <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
@@ -59,7 +59,7 @@
 <article id="post-8282" class="col-md-6 col-sm-12 post-8282 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8282" title="Pokémon Horizons 112, 113 et 114 VOSTFR">
-			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ112-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ112" />		</a>
+			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ112.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ112" />		</a>
         <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
@@ -73,7 +73,7 @@
 <article id="post-8267" class="col-md-6 col-sm-12 post-8267 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8267" title="Pokémon Horizons 110 et 111 VOSTFR">
-			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ110-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ110" />		</a>
+			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ110.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ110" />		</a>
         <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
@@ -87,7 +87,7 @@
 <article id="post-8254" class="col-md-6 col-sm-12 post-8254 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8254" title="Pokémon Horizons 108 et 109 VOSTFR">
-			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ108-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ108" />		</a>
+			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ108.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ108" />		</a>
         <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
@@ -101,7 +101,7 @@
 <article id="post-8245" class="col-md-6 col-sm-12 post-8245 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8245" title="Pokémon Horizons 107 VOSTFR">
-			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ107-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ107" />		</a>
+			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ107.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ107" />		</a>
         <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
@@ -115,7 +115,7 @@
 <article id="post-8235" class="col-md-6 col-sm-12 post-8235 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8235" title="Pokémon Horizons 106 VOSTFR">
-			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ106-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ106" />		</a>
+			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ106.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ106" />		</a>
         <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
@@ -129,7 +129,7 @@
 <article id="post-8224" class="col-md-6 col-sm-12 post-8224 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">
     <div class="entry-thumb">
         <a href="https://pokemonfansub.alwaysdata.net/?p=8224" title="Pokémon Horizons 105 VOSTFR">
-			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ105-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ105" />		</a>
+			<img width="325" height="170" src="https://pokemonfansub.alwaysdata.net/wp-content/uploads/HZ105.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ105" />		</a>
         <a class="entry-category" href="https://pokemonfansub.alwaysdata.net/?p=7306">Pokémon Horizons</a>    </div>
     <div class="entry-detail">
         <header class="entry-header">
