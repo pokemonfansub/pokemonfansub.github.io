@@ -5,7 +5,7 @@ document.write('<div class="block1 block1_grid"><div class="row">');
 document.write('<article id="post-8346" class="col-md-6 col-sm-12 post-8346 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-horizons category-release">');
 document.write('    <div class="entry-thumb">');
 document.write('        <a href="https://pokemonfansub.github.io/phtml/8346.html" title="Pokémon Horizons 121 et 122 VOSTFR">');
-document.write('			<img width="325" height="170" src="https://pokemonfansub.github.io/wp-content/uploads/HZ121.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ121" />		</a>');
+document.write('			<img width="325" height="170" src="https://pokemonfansub.github.io/wp-content/uploads/HZ121-325x170.png" class="attachment-codilight_lite_block_2_medium wp-post-image" alt="HZ121" />		</a>');
 document.write('        <a class="entry-category" href="https://pokemonfansub.github.io/phtml/7306.html">Pokémon Horizons</a>    </div>');
 document.write('    <div class="entry-detail">');
 document.write('        <header class="entry-header">');
