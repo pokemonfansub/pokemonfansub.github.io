@@ -4,7 +4,6 @@ document.write('<html lang="fr-FR">');
 document.write('<head>');
 document.write('<meta charset="UTF-8">');
 document.write('<meta name="viewport" content="width=device-width, initial-scale=1">');
-document.write('<script src="https://www.w3schools.com/lib/w3.js"></script>');
 document.write('<link rel="profile" href="http://gmpg.org/xfn/11">');
 document.write('<link rel="pingback" href="https://pokemonfansub.alwaysdata.net/xmlrpc.php">');
 document.write('<title>Pok&eacute;mon Fansub | Le paradis du VOSTFR</title>');
