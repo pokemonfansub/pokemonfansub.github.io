@@ -15,7 +15,7 @@ document.write('<p>PMHZ 121, Pok&eacute;mon en français :');
 document.write('');
 document.write('');
 document.write('<!--<a href="https://mega.nz/file/rUVhUbwQ#OiBxZZ5nuTiL2Hdd4CJEEKhF4y_YGMJtZETnqopAYvE">Mega</a>-->');
-document.write('<a href="https://pokemonfansub.alwaysdata.net/download/Pokemon-Fansub-Pokemon-Horizons-121-VOSTFR-FR-1920x1080-H264-AAC.mp4.php">T&eacute;l&eacute;chargement direct</a>');
+document.write('<a href="https://archive.org/download/pokemonfansub/%5BPok%C3%A9mon%20Fansub%5D%20Pok%C3%A9mon%20Horizons%20-%20121%20%28VOSTFR-FR%201920x1080%20H264%20AAC%29.mp4">T&eacute;l&eacute;chargement direct</a>');
 document.write('');
 document.write('');
 document.write('et <a href="https://nyaa.si/view/2060790">Torrent</a><br />');
