@@ -29,14 +29,12 @@ git clone git@github.com:pokemonfansub/pokemonfansub.github.io.git
 #    ((Nombre++))
 #done
 
-
-Nombre=8345
-while [ $Nombre -le 8347 ]
+if [ ! -f "$HOME/pokemonfansub.github.io/phtml/1.html"  ]; then
+Nombre=1
+while [ $Nombre -le 9999 ]
 do
 Nombreedit=$Nombre
 echo $Nombre
-
-
 mkdir -p "$HOME/pokemonfansub.github.io/phtml/"
 cat > "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
 <!--<head star>-->
@@ -71,6 +69,35 @@ cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
 EOF
     ((Nombre++))
 done
+else
+echo found add fonction
+function updatehtml() 
+{ 
+Nombreedit=$(echo $1|sed "s|.js||g")
+Nombreedit=$(echo $Nombreedit|sed "s|$HOME/pokemonfansub.github.io/phtml/||g")
+cat > "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+<!--<head star>-->
+<script src="https://pokemonfansub.github.io/include/head.js"></script>
+<!--<head end>-->
+EOF
+cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+<!--<article star>-->
+<script src="https://pokemonfansub.github.io/phtml/$Nombreedit.js"></script>
+<!--<article end>-->
+EOF
+cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+<!--<secondary star>-->
+<script src="https://pokemonfansub.github.io/include/secondary.js"></script>
+<!--<secondary end>-->
+EOF
+cat >> "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
+<!--<footer star>-->
+<script src="https://pokemonfansub.github.io/include/footer.js"></script>
+<!--<footer end>-->
+EOF
+}
+find "$HOME/pokemonfansub.github.io/phtml/" -name '*.js' -exec updatehtml {} \;
+fi
 
 cd $HOME/pokemonfansub.github.io
 git add --all *
