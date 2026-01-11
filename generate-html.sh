@@ -76,7 +76,7 @@ echo found add fonction
 cat > $HOME/pokemonfansub.github.io/updatehtml.sh <<EOG
 #!/bin/bash
 Nombreedit=\$(echo \$1|sed "s|.js||g")
-Nombreedit=\$(echo $Nombreedit|sed "s|\$HOME/pokemonfansub.github.io/phtml/||g")
+Nombreedit=\$(echo \$Nombreedit|sed "s|\$HOME/pokemonfansub.github.io/phtml/||g")
 echo "file "\$HOME/pokemonfansub.github.io/phtml/\$Nombreedit.js" exist"
 cat > "\$HOME/pokemonfansub.github.io/phtml/\$Nombreedit.html"<<EOF
 <!--<head star>-->
