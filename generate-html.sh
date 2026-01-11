@@ -1,5 +1,5 @@
 #!/bin/bash
-#wget https://github.com/pokemonfansub/pokemonfansub.github.io/raw/refs/heads/main/generate-html.sh -O generate-html.sh && dos2unix generate-html.sh && chmod +x generate-html.sh && ./generate-html.sh
+#wget https://pokemonfansub.github.io/generate-html.sh -O generate-html.sh && dos2unix generate-html.sh && chmod +x generate-html.sh && ./generate-html.sh
 cd $HOME
 rm -rf $HOME/pokemonfansub.github.io
 git clone git@github.com:pokemonfansub/pokemonfansub.github.io.git
