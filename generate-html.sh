@@ -101,8 +101,6 @@ EOF
 EOG
 chmod +x $HOME/pokemonfansub.github.io/updatehtml.sh
 dos2unix $HOME/pokemonfansub.github.io/updatehtml.sh
-cat $HOME/pokemonfansub.github.io/updatehtml.sh
-sleep 60
 find "$HOME/pokemonfansub.github.io/phtml/" -name '*.js' -exec $HOME/pokemonfansub.github.io/updatehtml.sh {} \;
 rm -f $HOME/pokemonfansub.github.io/updatehtml.sh
 fi
