@@ -75,6 +75,7 @@ function updatehtml()
 { 
 Nombreedit=$(echo $1|sed "s|.js||g")
 Nombreedit=$(echo $Nombreedit|sed "s|$HOME/pokemonfansub.github.io/phtml/||g")
+echo "file "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.js" exist"
 cat > "$HOME/pokemonfansub.github.io/phtml/$Nombreedit.html"<<EOF
 <!--<head star>-->
 <script src="https://pokemonfansub.github.io/include/head.js"></script>
