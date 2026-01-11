@@ -45,78 +45,7 @@ img.emoji {
 <script type='text/javascript' src='https://pokemonfansub.alwaysdata.net/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
 <script type='text/javascript' src='https://pokemonfansub.alwaysdata.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pokemonfansub.alwaysdata.net/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pokemonfansub.alwaysdata.net/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 4.2.2" />
-        <script>
-
-      window.OneSignal = window.OneSignal || [];
-
-      OneSignal.push( function() {
-        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
-        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
-        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
-
-        OneSignal.setDefaultNotificationUrl("http://pokemonfansub.alwaysdata.net");
-        var oneSignal_options = {};
-        window._oneSignalInitOptions = oneSignal_options;
-
-        oneSignal_options['wordpress'] = true;
-oneSignal_options['appId'] = 'cc9c08ed-7ad0-4d75-9f02-ebbca4d8b8ba';
-oneSignal_options['welcomeNotification'] = { };
-oneSignal_options['welcomeNotification']['title'] = "Pok&eacute;mon Fansub";
-oneSignal_options['welcomeNotification']['message'] = "Vous recevrez d&eacute;sormais une notification quand un &eacute;pisode sortira !";
-oneSignal_options['welcomeNotification']['url'] = "http://pokemonfansub.alwaysdata.net";
-oneSignal_options['subdomainName'] = "pokemonfansub";
-oneSignal_options['safari_web_id'] = "web.onesignal.auto.0818a4e7-118f-4fc1-b0e2-07892e811a2a";
-oneSignal_options['persistNotification'] = false;
-oneSignal_options['promptOptions'] = { };
-oneSignal_options['promptOptions']['actionMessage'] = 'Nous voulons vous envoyer des notifications à chaque nouvel &eacute;pisode.';
-oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = 'Pok&eacute;mon Fansub';
-oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = 'Un nouvel &eacute;pisode est disponible !';
-oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = 'Pok&eacute;mon Fansub';
-oneSignal_options['promptOptions']['exampleNotificationMessageMobile'] = 'Un nouvel &eacute;pisode est disponible !';
-oneSignal_options['promptOptions']['exampleNotificationCaption'] = '(vous pouvez vous d&eacute;sinscrire à n importe quel moment)';
-oneSignal_options['promptOptions']['acceptButtonText'] = 'AUTORISER';
-oneSignal_options['promptOptions']['cancelButtonText'] = 'NON MERCI';
-oneSignal_options['promptOptions']['siteName'] = 'http://pokemonfansub.alwaysdata.net';
-oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Cliquer sur Accepter';
-oneSignal_options['notifyButton'] = { };
-oneSignal_options['notifyButton']['enable'] = true;
-oneSignal_options['notifyButton']['position'] = 'bottom-left';
-oneSignal_options['notifyButton']['theme'] = 'inverse';
-oneSignal_options['notifyButton']['size'] = 'large';
-oneSignal_options['notifyButton']['showCredit'] = true;
-oneSignal_options['notifyButton']['text'] = {};
-oneSignal_options['notifyButton']['text']['tip.state.unsubscribed'] = 'Cliquez pour recevoir une notification à chaque &eacute;pisode';
-oneSignal_options['notifyButton']['text']['tip.state.subscribed'] = 'Vous recevrez une notification à chaque nouvel &eacute;pisode';
-oneSignal_options['notifyButton']['text']['tip.state.blocked'] = 'Vous avez bloqu&eacute; les notifications';
-oneSignal_options['notifyButton']['text']['message.action.subscribed'] = 'Merci d avoir activ&eacute; les notifications';
-oneSignal_options['notifyButton']['text']['message.action.resubscribed'] = 'Vous avez r&eacute;-activ&eacute; les notifications';
-oneSignal_options['notifyButton']['text']['message.action.unsubscribed'] = 'Vous avez d&eacute;sactiv&eacute; les notifications';
-oneSignal_options['notifyButton']['text']['dialog.main.title'] = 'Ajoutez les notifications pour les nouveaux &eacute;pisodes';
-oneSignal_options['notifyButton']['text']['dialog.main.button.subscribe'] = 'ÊTRE INFORM&eacute;';
-oneSignal_options['notifyButton']['text']['dialog.main.button.unsubscribe'] = 'NE PLUS ÊTRE INFORM&eacute;';
-oneSignal_options['notifyButton']['text']['dialog.blocked.title'] = 'D&eacute;bloquer les notifications';
-oneSignal_options['notifyButton']['text']['dialog.blocked.message'] = 'Suivez ces instructions pour activer les notifications :';
-          /* OneSignal: Using custom SDK initialization. */
-                });
-
-      function documentInitOneSignal() {
-        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
-
-        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
-          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
-      }
-
-      if (document.readyState === 'complete') {
-           documentInitOneSignal();
-      }
-      else {
-           window.addEventListener("load", function(event){
-               documentInitOneSignal();
-          });
-      }
-    </script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pokemonfansub.alwaysdata.net/wp-includes/wlwmanifest.xml" />
 <style type="text/css" id="custom-background-css">
 body.custom-background { background-image: url('https://pokemonfansub.alwaysdata.net/wp-content/uploads/FC3E5A3C-5779-486C-8759-FD0241C285EC.jpeg'); background-repeat: repeat-y; background-position: top right; background-attachment: fixed; }
 </style>
