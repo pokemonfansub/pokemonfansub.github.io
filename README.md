@@ -6,7 +6,8 @@ version php html
 
 https://pokemonfansub.alwaysdata.net/index.php
 
-copier les fichier et dossier dans votre home
+copier les fichiers et dossiers dans votre dossier www
+copy the files and folders to your www folder
 
 ```
 download/* vers www/download/*
@@ -27,7 +28,8 @@ version html javascript
 
 https://pokemonfansub.github.io/index.html
 
-copier les fichier et dossier dans votre home
+copier les fichiers et dossiers dans votre dossier www
+copy the files and folders to your www folder
 
 ```
 include/*.js vers www/include/*.js
