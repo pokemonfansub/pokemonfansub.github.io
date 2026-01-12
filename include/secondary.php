@@ -12,7 +12,7 @@
 				</div>
 				
 
-<a href ="https://pokemonfansub.alwaysdata.net/?page_id=877"><img src="/wp-content/uploads/Sans-titre-11.png"></a>
+<a href ="/?page_id=877"><img src="/wp-content/uploads/Sans-titre-11.png"></a>
 
 <br />
 <br /></div>
