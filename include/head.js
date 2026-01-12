@@ -27,6 +27,7 @@ document.write('	background: none !important;');
 document.write('	padding: 0 !important;');
 document.write('}');
 document.write('</style>');
+document.write('<link rel=\'stylesheet\' id=\'inline-spoilers_style-css\'  href=\'/wp-content/plugins/inline-spoilers/styles/inline-spoilers-default.css?ver=1.4.1\' type=\'text/css\' media=\'all\' />');
 document.write('<link rel=\'stylesheet\' id=\'wp-polls-css\'  href=\'/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.7\' type=\'text/css\' media=\'all\' />');
 document.write('<style id=\'wp-polls-inline-css\' type=\'text/css\'>');
 document.write('.wp-polls .pollbar {');
