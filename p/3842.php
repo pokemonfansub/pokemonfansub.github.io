@@ -165,3 +165,8 @@
 			</footer><!-- .entry-footer -->
 </article><!-- #post-## -->
 
+<!-- <div id="comments" class="comments-area"> -->
+					
+				</main><!-- #main -->
+			</div><!-- #primary -->
+<!--<article end>-->
