@@ -35,7 +35,7 @@ document.write('<img src="https://pokemonfansub.github.io/wp-content/uploads/gma
 document.write('staff.pokemonfansub@gmail.com');
 document.write('<br />');
 document.write('<br />');
-document.write('<a />');
+document.write('<a');
 document.write('href="https://discord.gg/qcPjqcz"><span style="color: #9b2c33;"> <img src="https://pokemonfansub.github.io/wp-content/uploads/discord.png"width=30> </span></a> <a href="https://discord.gg/qcPjqcz"><span style="color: #9b2c33;">Serveur Discord</span></a>');
 document.write('<br />');
 document.write('<br />');
