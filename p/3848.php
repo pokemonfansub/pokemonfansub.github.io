@@ -73,3 +73,9 @@ AG 056 : Le Badge Chaleur ! Combat enflammé pour l&rsquo;obtenir !!</p>
 	<footer class="entry-footer">
 			</footer><!-- .entry-footer -->
 </article><!-- #post-## -->
+
+<!-- <div id="comments" class="comments-area"> -->
+					
+				</main><!-- #main -->
+			</div><!-- #primary -->
+<!--<article end>-->
