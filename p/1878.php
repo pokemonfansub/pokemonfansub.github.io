@@ -7,7 +7,7 @@
 		<p>Vous cherchez un épisode précis sans connaître son numéro ?<br />
 Vous avez la flemme de remonter jusque dans nos vieux articles pour en trouver un autre ?<br />
 Cette page est faite pour vous !</p>
-<p>Voici la liste de tous les épisodes que nous avons traduit jusqu&rsquo;à maintenant, cliquez sur le titre ou le numéro pour accéder à l&rsquo;article et aux liens de téléchargement correspondants. Pour les arcs de Horizons, Pocket Monsters 2019, Advanced Génération et Sun &amp; Moon, il vous suffit d&rsquo;aller sur les pages correspondantes 😉</p>
+<p>Voici la liste de tous les épisodes que nous avons traduit jusqu&rsquo;à maintenant, cliquez sur le titre ou le numéro pour accéder à l&rsquo;article et aux liens de téléchargement correspondants. Pour les arcs de Horizons, Pocket Monsters 2019, Advanced Génération et Sun &amp; Moon, il vous suffit d&rsquo;aller sur les pages correspondantes</p>
 <p><a href="/?p=3560">Pokémon, le film : Je te choisis !</a><br />
 <a href="/?p=4214">Pokémon, le film : Notre histoire à tous</a><br />
 Mewtwo contre-attaque &#8211; Évolution : dispo sur <a href="https://www.netflix.com/fr/title/81223075">Netflix</a> en VOSTFR<br />
