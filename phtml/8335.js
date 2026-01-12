@@ -36,3 +36,16 @@ document.write('               <iframe width="640" height="500" frameborder="0" 
 document.write('');
 document.write(' </p>');
 document.write('');
+document.write('<!--<p><img class="" src="https://pokemonfansub.github.io/wp-content/uploads/HZ120.png" alt="" width="686" height="385" /></p>-->');
+document.write('<p>PMHZ 120, Pokémon en français : ');
+document.write('');
+document.write('<!--<a href="https://mega.nz/file/rYdDHS4B#O6VP8qLyiJk7FJLcNgG3xs0wME7PKrnMrGhH5w_uSn4">Mega</a>--> ');
+document.write('<a href="https://pokemonfansub.github.io/download/Pokemon-Fansub-Pokemon-Horizons-120-VOSTFR-FR-1920x1080-H264-AAC.mp4.php">Téléchargement direct</a>');
+document.write('');
+document.write('');
+document.write('');
+document.write('et <a href="https://nyaa.si/view/2057183">Torrent</a>');
+document.write('');
+document.write('<iframe width="640" height="500" frameborder="0" src="https://pokemonfansub.github.io/video/Pokemon-Fansub-Pokemon-Horizons-120-VOSTFR-FR-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe>');
+document.write('');
+document.write('<br />');
