@@ -24,24 +24,7 @@ if (isset($_GET["page_id"])) {
     include "p/" . $page_id . ".php";
 } else {
     include "include/home.php";
-}
-} elseif (isset($_GET["author"])) {
-    $page_id = $_GET["author"];	
-	$pagedir = "author/" . $page_id . ".php";
-	if (file_exists($pagedir)) {
-    include "author/" . $page_id . ".php";
-} else {
-    include "include/home.php";
-}
-} elseif (isset($_GET["cat"])) {
-    $page_id = $_GET["cat"];	
-	$pagedir = "cat/" . $page_id . ".php";
-	if (file_exists($pagedir)) {
-    include "cat/" . $page_id . ".php";
-} else {
-    include "include/home.php";
-}
-	
+	}
 } else {
 	include "include/home.php";
 }
