@@ -93,7 +93,6 @@ et <a href="https://nyaa.si/view/2051539">Torrent</a></p>
 	<footer class="entry-footer">
 		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
 	<li><a href="/?cat=21" rel="category">Pokémon Horizons</a></li>
-	<li><a href="/?cat=6" rel="category">Release</a></li></ul></div></div>
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
@@ -106,6 +105,7 @@ et <a href="https://nyaa.si/view/2051539">Torrent</a></p>
 		</div>
 		
 	</footer><!-- .entry-footer -->
+
 </article><!-- #post-## -->
 
 <!-- <div id="comments" class="comments-area"> -->				
