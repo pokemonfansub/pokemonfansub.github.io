@@ -20,7 +20,6 @@
 								<span>Next article</span>
 				<h2 class="h5"><a href="/?p=5031" rel="next">Pocket Monsters 2019 011 VOSTFR</a></h2>
 							</div>
-		</div>
 		
 	</footer><!-- .entry-footer -->
 </article><!-- #post-## -->
