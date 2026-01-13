@@ -1,7 +1,7 @@
 <!--<article star>-->
 <article id="post-3560" class="post-3560 post type-post status-publish format-standard has-post-thumbnail hentry category-pokemon-sun-moon category-release">
 	<header class="entry-header entry-header-single">
-		<h1 class="entry-title">Pokémon Sun &#038; Moon 067 VOSTFR + Pokémon The Movie</h1>		<div class="entry-meta entry-meta-1"><span class="author vcard"><a class="url fn n" href="https://pokemonfansub.alwaysdata.net/?author=5">grimm-THERA</a></span><span class="entry-date"><time class="entry-date published" datetime="2018-04-06T17:21:11+00:00">6 avril 2018</time></span><span class="comments-link"><i class="fa fa-comments-o"></i><a href="https://pokemonfansub.alwaysdata.net/?p=3560#comments">26</a></span></div>	</header><!-- .entry-header -->
+		<h1 class="entry-title">Pokémon Sun &#038; Moon 067 VOSTFR + Pokémon The Movie</h1>		<div class="entry-meta entry-meta-1"><span class="entry-date"><time class="entry-date published" datetime="2018-04-06T17:21:11+00:00">6 avril 2018</time></span></div>	</header><!-- .entry-header -->
 
 
 	<div class="entry-content">
@@ -18,7 +18,7 @@ Certains d&rsquo;entre-vous l&rsquo;auront peut-être déjà devinée, mais il s
 
 <!--<a href="https://mega.nz/#!BJYWRB5b!WwxlyIj-MSd444_hEj5FfgrRQWU7LaUX1eppIso9qPg">Pokémon en français</a>-->
 
-<a href="https://pokemonfansub.alwaysdata.net/download/_Pokemon_Fansub__Pokemon_SunMoon_-_67_VOSTFR__FR___TV_720p_AAC.mp4.php">Téléchargement Direct</a>
+<a href="/download/_Pokemon_Fansub__Pokemon_SunMoon_-_67_VOSTFR__FR___TV_720p_AAC.mp4.php">Téléchargement Direct</a>
 
 
 <br />
@@ -27,7 +27,7 @@ Certains d&rsquo;entre-vous l&rsquo;auront peut-être déjà devinée, mais il s
 </br></br></br></br></br></br>
 
 
-<iframe width="640" height="180" frameborder="0" src="https://pokemonfansub.alwaysdata.net/video.php?link=https://pokemonfansub.alwaysdata.net/download/_Pokemon_Fansub__Pokemon_SunMoon_-_67_VOSTFR__FR___TV_720p_AAC.mp4.php" allowfullscreen></iframe>
+<iframe width="640" height="180" frameborder="0" src="/video.php?link=/download/_Pokemon_Fansub__Pokemon_SunMoon_-_67_VOSTFR__FR___TV_720p_AAC.mp4.php" allowfullscreen></iframe>
 
 
 
@@ -45,16 +45,16 @@ Certains d&rsquo;entre-vous l&rsquo;auront peut-être déjà devinée, mais il s
 
 	<footer class="entry-footer">
 		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
-	<li><a href="https://pokemonfansub.alwaysdata.net/?cat=15" rel="category">Pokémon Sun &amp; Moon</a></li>
-	<li><a href="https://pokemonfansub.alwaysdata.net/?cat=6" rel="category">Release</a></li></ul></div></div>
+	<li><a href="/?cat=15" rel="category">Pokémon Sun &amp; Moon</a></li>
+	<li><a href="/?cat=6" rel="category">Release</a></li></ul></div></div>
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
-				<h2 class="h5"><a href="https://pokemonfansub.alwaysdata.net/?p=3550" rel="prev">Pokémon Sun &#038; Moon 066 VOSTFR</a></h2>
+				<h2 class="h5"><a href="/?p=3550" rel="prev">Pokémon Sun &#038; Moon 066 VOSTFR</a></h2>
 							</div>
 			<div class="col-md-6 post-navi-next">
 								<span>Next article</span>
-				<h2 class="h5"><a href="https://pokemonfansub.alwaysdata.net/?p=3596" rel="next">Pokémon Sun &#038; Moon 068, 069 et 070 VOSTFR</a></h2>
+				<h2 class="h5"><a href="/?p=3596" rel="next">Pokémon Sun &#038; Moon 068, 069 et 070 VOSTFR</a></h2>
 							</div>
 		</div>
 		
