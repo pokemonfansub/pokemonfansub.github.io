@@ -11,6 +11,8 @@
 			</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
+		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
+	<li><a href="/?p=7306" rel="category">Pokémon Horizons</a></li>
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
@@ -22,6 +24,8 @@
 							</div>
 		
 	</footer><!-- .entry-footer -->
+
+							
 </article><!-- #post-## -->
 
 <!-- <div id="comments" class="comments-area"> -->
