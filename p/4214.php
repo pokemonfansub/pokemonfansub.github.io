@@ -41,3 +41,9 @@ Vous pouvez choisir entre FR/JAP et couleurs/sans couleur dans les pistes.</p>
 		
 	</footer><!-- .entry-footer -->
 </article><!-- #post-## -->
+
+<!-- <div id="comments" class="comments-area"> -->
+					
+				</main><!-- #main -->
+			</div><!-- #primary -->
+<!--<article end>-->
