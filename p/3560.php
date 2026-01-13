@@ -44,9 +44,6 @@ Certains d&rsquo;entre-vous l&rsquo;auront peut-être déjà devinée, mais il s
 			</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
-	<li><a href="/?cat=15" rel="category">Pokémon Sun &amp; Moon</a></li>
-	<li><a href="/?cat=6" rel="category">Release</a></li></ul></div></div>
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
