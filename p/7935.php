@@ -76,9 +76,6 @@ PMHZ 073, Pokémon en japonais : <a href="https://mega.nz/file/Za1XDBYB#_GK5TsaW
 			</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
-	<li><a href="/?cat=21" rel="category">Pokémon Horizons</a></li>
-	<li><a href="/?cat=6" rel="category">Release</a></li></ul></div></div>
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
