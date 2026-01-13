@@ -14,7 +14,7 @@
 <p>De plus, nous passons pour ce film en softsub. Autrement dit, les sous-titres ne sont pas &laquo;&nbsp;collés&nbsp;&raquo; aux épisodes et il y a plusieurs pistes disponibles par fichier, comme détaillé ci-dessous. Si vous ne vous y connaissez pas, le mieux est de télécharger la version de votre choix, de l&rsquo;ouvrir sous VLC et de sélectionner la piste qui vous intéresse dans le menu &laquo;&nbsp;Sous-titres&nbsp;&raquo;.<br />
 Et pour ceux qui sont perdus, nous avons aussi deux versions classiques (en hardsub) disponibles.</p>
 <p>Si vous souhaitez ré-utiliser nos sous-titres, vous pouvez, mais merci de nous créditer !</p>
-<p>Merci pour votre soutien et votre patience ! Et à présent, bon visionnage ! 😀</p>
+<p>Merci pour votre soutien et votre patience ! Et à présent, bon visionnage ! </p>
 <p><img class="" src="https://archives.bulbagarden.net/media/upload/5/5d/M21_poster.png" alt="" width="686" height="385" /></p>
 <p><strong>Softsub</strong><br />
 <a href="https://mega.nz/#!pRRBSQSa!WbKNmR7XsS94kA0xtmGRzCVcUH8cGzlJQNqjxBlwX2Q">MEGA 720p</a> &#8211; <a href="https://mega.nz/#!dJI13QST!1dNlUeLxauQXHFVMnuOq_-NSgiR5QTZUQ2MnT3Z-Qs8">1080p</a><br />
@@ -28,6 +28,8 @@ Vous pouvez choisir entre FR/JAP et couleurs/sans couleur dans les pistes.</p>
 			</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
+		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
+	<li><a href="/?p=7306" rel="category">Pokémon Horizons</a></li>
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
