@@ -11,7 +11,6 @@
 			</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
