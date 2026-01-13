@@ -85,18 +85,21 @@ et <a href="https://nyaa.si/view/2057184">Torrent</a></p>
 
 	<footer class="entry-footer">
 		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
-	<li><a href="/?cat=21" rel="category">Pokémon Horizons</a></li>
-	<li><a href="/?cat=6" rel="category">Release</a></li></ul></div></div>
+	<li><a href="/?p=7306" rel="category">Pokémon Horizons</a></li>
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
 				<h2 class="h5"><a href="/?p=8321" rel="prev">Pokémon Horizons 117 et 118 VOSTFR</a></h2>
 							</div>
 			<div class="col-md-6 post-navi-next">
+								<span>Next article</span>
+				<h2 class="h5"><a href="/?p=8346" rel="next">Pokémon Horizons 121 et 122 VOSTFR</a></h2>
 							</div>
 		</div>
 		
 	</footer><!-- .entry-footer -->
+	
+	
 </article><!-- #post-## -->
 
 					
