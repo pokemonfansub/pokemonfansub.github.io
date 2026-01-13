@@ -17,8 +17,9 @@ PMHZ 110, Pokémon en japonais : <a href="https://mega.nz/file/Wc9WTQqI#gcVNd003
 PMHZ 111, Pokémon en japonais : <a href="https://mega.nz/file/nYExQDYS#g94sgDzPxMLCT2cBIcSnUouY44ihm93DXuYJcCxc8Bk">Mega</a> et <a href="https://nyaa.si/view/2026355">Torrent</a></p>
 <p>Streaming : le streaming est disponible sur Mega après quelques minutes de traitement.</p>
 			</div><!-- .entry-content -->
-
 	<footer class="entry-footer">
+		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
+	<li><a href="/?cat=21" rel="category">Pokémon Horizons</a></li>
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
