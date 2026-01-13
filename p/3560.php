@@ -44,14 +44,14 @@ Certains d&rsquo;entre-vous l&rsquo;auront peut-être déjà devinée, mais il s
 			</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
+		<div class="entry-taxonomies"><div class="entry-categories"><span>Categories</span><ul class="post-categories">
+	<li><a href="/?p=7306" rel="category">Pokémon Horizons</a></li>
 						<div class="post-navigation row">
 			<div class="col-md-6">
 								<span>Previous article</span>
-				<h2 class="h5"><a href="/?p=3550" rel="prev">Pokémon Sun &#038; Moon 066 VOSTFR</a></h2>
+				<h2 class="h5"><a href="/?p=8335" rel="prev">Pokémon Horizons 119 et 120 VOSTFR</a></h2>
 							</div>
 			<div class="col-md-6 post-navi-next">
-								<span>Next article</span>
-				<h2 class="h5"><a href="/?p=3596" rel="next">Pokémon Sun &#038; Moon 068, 069 et 070 VOSTFR</a></h2>
 							</div>
 		</div>
 		
