@@ -21,10 +21,17 @@
 </div><!-- #page -->
 
 <link rel='stylesheet' id='responsive-progressbar-style-css'  href='/wp-content/plugins/responsive-progress-bar/assets/css/style.css?ver=4.2.2' type='text/css' media='all' />
-
+<script type='text/javascript' src='/wp-content/plugins/anti-spam/js/anti-spam-3.5.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var title = {"expand":"Expand","collapse":"Collapse"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/inline-spoilers/scripts/inline-spoilers-scripts.js?ver=1.4.1'></script>
 <script type='text/javascript' src='/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.7'></script>
 <script type='text/javascript' src='/wp-content/themes/codilight-lite/assets/js/libs.js?ver=20120206'></script>
 <script type='text/javascript' src='/wp-content/themes/codilight-lite/assets/js/theme.js?ver=20120206'></script>
+<script type='text/javascript' src='/wp-includes/js/comment-reply.min.js?ver=4.2.2'></script>
 <script type='text/javascript' src='/wp-content/plugins/responsive-progress-bar/assets/js/responsive-progressbar.js?ver=4.2.2'></script>
 <script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=4.2.2' async='async'></script>
 
