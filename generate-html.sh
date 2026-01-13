@@ -1,8 +1,7 @@
 #!/bin/bash
 #wget https://pokemonfansub.github.io/generate-html.sh -O generate-html.sh && dos2unix generate-html.sh && chmod +x generate-html.sh && ./generate-html.sh
-cd $HOME
-rm -rf $HOME/pokemonfansub.github.io
-git clone git@github.com:pokemonfansub/pokemonfansub.github.io.git
+cd $HOME/pokemonfansub.github.io
+git pull
 if [ ! -f "$HOME/pokemonfansub.github.io/video/Pokemon-Fansub-Pokemon-Horizons-001-VOSTFR-FR-1920x1080-H264-AAC.mp4.html"  ]; then
 Nombre=1
 while [ $Nombre -le 122 ]
@@ -110,4 +109,3 @@ git add --all *
 git commit -a -m "add all new html"
 git push origin main
 cd $HOME
-rm -rf $HOME/pokemonfansub.github.io
