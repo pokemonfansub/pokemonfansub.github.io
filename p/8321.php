@@ -25,7 +25,7 @@
 et <a href="https://nyaa.si/view/2051536">Torrent</a>
 
 
-<iframe width="640" height="500" frameborder="0" src="/video/Pokemon-Fansub-Pokemon-Horizons-117-VOSTFR-FR-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe>
+<iframe width="640" height="500" frameborder="0" src="/video.php?link=/download/Pokemon-Fansub-Pokemon-Horizons-117-VOSTFR-FR-1920x1080-H264-AAC.mp4.php&poster=/wp-content/uploads/HZ117.png" allowfullscreen></iframe>
  
 
 <br />
@@ -45,7 +45,7 @@ PMHZ 117, Pokémon en japonais :
 et <a href="https://nyaa.si/view/2051537">Torrent</a></p>
 
 
-<iframe width="640" height="500" frameborder="0" src="/video/Pokemon-Fansub-Pokemon-Horizons-117-VOSTFR-JAP-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe>
+<iframe width="640" height="500" frameborder="0" src="/video.php?link=/download/Pokemon-Fansub-Pokemon-Horizons-117-VOSTFR-JAP-1920x1080-H264-AAC.mp4.php&poster=/wp-content/uploads/HZ117.png" allowfullscreen></iframe>
 
 <br />
 <!--<p><img class="" src="/wp-content/uploads/HZ118.png" alt="" width="686" height="385" /></p>-->
@@ -64,7 +64,7 @@ et <a href="https://nyaa.si/view/2051537">Torrent</a></p>
 
 et <a href="https://nyaa.si/view/2051538">Torrent</a><br />
 
-<iframe width="640" height="500" frameborder="0" src="/video/Pokemon-Fansub-Pokemon-Horizons-118-VOSTFR-FR-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe>
+<iframe width="640" height="500" frameborder="0" src="/video.php?link=/download/Pokemon-Fansub-Pokemon-Horizons-118-VOSTFR-FR-1920x1080-H264-AAC.mp4.php&poster=/wp-content/uploads/HZ117.png" allowfullscreen></iframe>
 
 <br />
 
@@ -84,7 +84,7 @@ PMHZ 118, Pokémon en japonais :
 et <a href="https://nyaa.si/view/2051539">Torrent</a></p>
 
 
-<iframe width="640" height="500" frameborder="0" src="/video/Pokemon-Fansub-Pokemon-Horizons-118-VOSTFR-JAP-1920x1080-H264-AAC.mp4.html" allowfullscreen></iframe>
+<iframe width="640" height="500" frameborder="0" src="/video.php?link=/download/Pokemon-Fansub-Pokemon-Horizons-118-VOSTFR-JAP-1920x1080-H264-AAC.mp4.php&poster=/wp-content/uploads/HZ118.png" allowfullscreen></iframe>
 
 
 
