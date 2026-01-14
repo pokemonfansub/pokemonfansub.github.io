@@ -7,6 +7,7 @@ version php html
 https://pokemonfansub.alwaysdata.net/index.php
 
 copier les fichiers et dossiers dans votre dossier www
+
 copy the files and folders to your www folder
 
 ```
@@ -16,6 +17,7 @@ p/*.php vers www/p/*.php
 torrent/* vers www/torrent/*
 wp-content/* vers www/wp-content/*
 wp-includes/* vers www/wp-includes/*
+function.php vers www/function.php
 index.php vers www/index.php
 rss2.xml vers www/rss2.xml
 search.php vers www/search.php
@@ -29,6 +31,7 @@ version html javascript
 https://pokemonfansub.github.io/index.html
 
 copier les fichiers et dossiers dans votre dossier www
+
 copy the files and folders to your www folder
 
 ```
